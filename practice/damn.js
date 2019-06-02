@@ -7,7 +7,7 @@ city.forEach(hello => {
 let times = 0;
 do {
     times++;
-    console.log('kill yourself');
+    console.log('have a great day!');
 } while (times < 10);
 for (i in city) {
     if (city[i].length >= 6) {
