@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.impo {
+    font-size: 30px;
+    color: black;
+}
+.menu {
+    text-align: center;
+}
+a {
+    text-align: center;
+    color: gray;
+    line-height: 50px;
+    font-size: 25px;
+}
+h3 {
+    color: cadetblue;
+    font-size: 25px;
+}
+h4 {
+    color: palevioletred;
+    text-align: center;
+    font-style: italic;
+}
+footer {
+    text-align: center;
+    color: rgb(77, 77, 77);
+    background-color: palevioletred;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0, auto;
+    border-radius: 7px;
+    text-transform: capitalize;
+}
+h1 {
+    font-size: 20px;
+    color: rgb(77, 77, 77);
+    background-color: palevioletred;
+    padding: 20px;
+    margin: 0, auto;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 7px;
+}
+p {
+    margin-left: 25px;
+}
+.openend {
+    font-size: 20px;
+    color: silver;
+}
+.result {
+    text-transform: uppercase;
+    text-transform: capitalize;
+}
